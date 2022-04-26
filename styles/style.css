@@ -1,0 +1,58 @@
+@font-face{
+	font-family: "EBENYA";
+	font-style:"Regular";
+	src: url(fonts/EBENYA.ttf);
+	
+}
+	html{
+		background-color: #545454;
+		background-image: url(https://cs11.pikabu.ru/post_img/big/2019/10/17/11/1571337654150547655.jpg);
+		font-family: 'PT Sans Narrow', sans-serif;
+		font-size:14px;
+		color: white;
+		
+	}
+
+h1{
+font-family:"EBENYA";	
+font-size:60px;
+text-align: center
+}
+h2{
+font-family:"EBENYA";	
+font-size:40px;
+text-align: center
+}
+
+h3{
+font-family:"EBENYA";	
+font-size:25px;
+text-align: center
+}
+
+h4{
+font-family:"EBENYA";	
+font-size:17px;
+text-align: center
+}
+
+p,li {
+	font-size: 16px;
+	line-height:1.5;
+	letter-spacing: 1px;
+	
+}
+body{
+	width:600px;
+	margin: 0 auto;
+	padding: 0 20px 20px 20px;
+	background-color: rgba(26,26,26,0.7);
+	
+}
+img{
+	display:block;
+	margin:0 auto;
+	width:50%;
+	
+}
+	
